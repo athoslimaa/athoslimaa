@@ -1,7 +1,7 @@
 ### Olá, eu sou o Athos! 👋
 
 - 🔭 Atualmente trabalho na Globo.
-- 🌱 Estou estudando Desenvolvimento Web. JS|HTML|CSS
+- 🌱 Estou estudando Desenvolvimento Web e DevOps. JS|HTML|CSS / Docker|Kubernets|Ansible|Terraform|AWS|CLOUD
 - 👶 Sou pai do Theo.
 - 🥋 E lutador de Jiu Jitsu...
 
