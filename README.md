@@ -1,7 +1,7 @@
 ### Olá, eu sou o Athos! 👋
 
-- 🔭 Trabalho na Incognia.
-- 🌱 Estou Em processo de transição de carreira e esou estudando as seguintes tecnologias / Docker|Kubernets|Ansible|Puppet|Terraform|AWS|CLOUD
+- 🔭 Trabalho na NTT DATA.
+- 🌱 Git | GitHub Actions | Docker| Kubernets | Ansible | Puppet | Terraform | AWS | CLOUD
 - 👶 Sou pai do Theo.
 - 🥋 E lutador de Jiu Jitsu...
 
